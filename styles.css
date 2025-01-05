@@ -15,7 +15,7 @@ h1, h2 {
 /* Header */
 header {
   text-align: center;
-  background-color: #dceefb;
+  background-color: #eaf4fc; /* Bleu très clair pour le haut */
   padding: 20px;
   border-bottom: 3px solid #3498db;
 }
@@ -84,7 +84,7 @@ p, li {
 footer {
   text-align: center;
   padding: 15px 0;
-  background-color: #dceefb;
+  background-color: #eaf4fc; /* Même bleu clair pour le bas */
   color: #2c3e50;
   border-top: 3px solid #3498db;
 }
